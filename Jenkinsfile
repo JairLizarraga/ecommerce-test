@@ -7,6 +7,7 @@ pipeline {
 
 	tools {
 		jdk 'java-21'
+        maven 'maven-auto'
 	}
 
 	stages {
